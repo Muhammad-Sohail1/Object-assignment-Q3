@@ -1,0 +1,98 @@
+#topb{
+	margin-left: 21.6%;
+ 	border-top-left-radius: 27% ; 
+	border-top-right-radius: 27%; 
+	font-size: 15px; 
+	color:white;
+ 	background-color: orange;
+}
+
+#topbt{
+	
+	border-top-left-radius: 27% ; 
+	border-top-right-radius: 27%; 
+	font-size: 15px; 
+	color:white;
+ 	background-color: orange;}
+
+#topbn{
+	
+	border-top-left-radius: 27% ; 
+	border-top-right-radius: 27%; 
+	font-size: 15px; 
+	color:white;
+ 	background-color: orange;}
+
+
+#hr{
+
+    width: 3%;
+    float: left;
+    border-top: 3px solid red;    
+}
+
+
+.bg{
+    
+    background-color: whitesmoke;
+    padding: 4% 4% 4% 4%;
+    max-width: 900px
+
+}
+
+
+.rwbg{
+
+    border: 1px solid skyblue;
+    background-color:  lightgray;
+    max-width: 800px;
+}
+
+
+#txt{
+
+    color: black; 
+    font-size: 13px;
+    
+}
+
+
+#input{
+
+	margin: 5px 5px 5px 0px;
+	width:  47%;
+
+}
+
+
+#txts{
+
+	font-size: 11px;
+	line-height: normal;
+	margin: 5px 0px 7px 0px;
+}
+
+
+#bns{
+
+	border-color: #ffa500;
+	color: orange;
+	border-radius: 0.4em;
+	margin: 22px 0px 40px 0px;
+
+}
+
+
+#selectbox{
+	  
+	 width: 40%;
+
+}
+
+
+#addres{
+		
+	margin: 5px 5px 5px 0px;
+	width: 40%;
+}
+
